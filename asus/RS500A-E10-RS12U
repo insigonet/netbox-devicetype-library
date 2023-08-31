@@ -1,0 +1,44 @@
+---
+manufacturer: Asus
+model: RS500A-E10-RS12U
+slug: asus-rs500a-e10-rs12u
+u_height: 1
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: VGA
+    type: other
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+  - name: Power 2
+    type: iec-60320-c14
+interfaces:
+  - name: BMC
+    type: 1000base-t
+    mgmt_only: true
+    description: Dedicated IPMI LAN port
+  - name: LAN 1
+    type: 1000base-t
+  - name: LAN 2
+    type: 1000base-t
+module-bays:
+  - name: CPU
+    label: CPU
+    position: 1
+    description: Сentral Processing Unit
+  - name: RAM
+    label: RAM
+    description: Random Access Memory
+  - name: PCI-E
+    label: PCI-E
+	position: 1
+    description: PCI Express
+  - name: M.2
+    label: M.2
+    description: M.2 Interface PCI-E form factor: 2280
+  - name: Drive bays 1
+    label: Drive bays
+    description: Hard Drive bays
+	position: 1
