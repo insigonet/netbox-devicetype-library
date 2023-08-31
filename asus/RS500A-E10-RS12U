@@ -33,7 +33,7 @@ module-bays:
     description: Random Access Memory
   - name: PCI-E
     label: PCI-E
-	position: 1
+    position: 1
     description: PCI Express
   - name: M.2
     label: M.2
@@ -41,4 +41,4 @@ module-bays:
   - name: Drive bays 1
     label: Drive bays
     description: Hard Drive bays
-	position: 1
+    position: 1
