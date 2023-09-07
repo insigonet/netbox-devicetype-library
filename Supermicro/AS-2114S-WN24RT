@@ -1,0 +1,136 @@
+---
+manufacturer: Supermicro
+model: AS-2114S-WN24RT
+slug: supermicro-as-2114s-wn24rt
+u_height: 2
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: VGA
+    type: other
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+  - name: Power 2
+    type: iec-60320-c14
+interfaces:
+  - name: BMC
+    type: 1000base-t
+    mgmt_only: true
+    description: Dedicated IPMI LAN port
+  - name: LAN 1
+    type: 10gbase-t
+  - name: LAN 2
+    type: 10gbase-t
+module-bays:
+  - name: CPU
+    label: CPU
+    position: 1
+    description: Сentral Processing Unit
+  - name: RAM
+    label: RAM
+    description: Random Access Memory
+  - name: PCI-E
+    label: PCI-E
+    position: 1
+    description: PCI Express
+  - name: M.2
+    label: M.2
+    description: M.2 Interface PCI-E form factor 2280
+  - name: Drive bays 1
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 1
+  - name: Drive bays 2
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 2
+  - name: Drive bays 3
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 3
+  - name: Drive bays 4
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 4
+  - name: Drive bays 5
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 5
+  - name: Drive bays 6
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 6
+  - name: Drive bays 7
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 7
+  - name: Drive bays 8
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 8
+  - name: Drive bays 9
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 9
+  - name: Drive bays 10
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 10
+  - name: Drive bays 11
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 11
+  - name: Drive bays 12
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 12
+  - name: Drive bays 13
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 13
+  - name: Drive bays 14
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 14
+  - name: Drive bays 15
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 15
+  - name: Drive bays 16
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 16
+  - name: Drive bays 17
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 17
+  - name: Drive bays 18
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 18
+  - name: Drive bays 19
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 19
+  - name: Drive bays 20
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 20
+  - name: Drive bays 21
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 21
+  - name: Drive bays 22
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 22
+  - name: Drive bays 23
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 23
+  - name: Drive bays 24
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 24
