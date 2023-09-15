@@ -36,43 +36,43 @@ module-bays:
     label: M.2
     description: M.2 Interface PCI-E form factor 2280
     position: 2
-  - name: Drive bays 1
+  - name: Drive bays 0
     label: Drive bays
     description: Hard Drive Bays
     position: 1
-  - name: Drive bays 2
+  - name: Drive bays 1
     label: Drive bays
     description: Hard Drive Bays
     position: 2
-  - name: Drive bays 3
+  - name: Drive bays 2
     label: Drive bays
     description: Hard Drive Bays
     position: 3
-  - name: Drive bays 4
+  - name: Drive bays 3
     label: Drive bays
     description: Hard Drive Bays
     position: 4
-  - name: Drive bays 5
+  - name: Drive bays 4
     label: Drive bays
     description: Hard Drive Bays
     position: 5
-  - name: Drive bays 6
+  - name: Drive bays 5
     label: Drive bays
     description: Hard Drive Bays
     position: 6
-  - name: Drive bays 7
+  - name: Drive bays 6
     label: Drive bays
     description: Hard Drive Bays
     position: 7
-  - name: Drive bays 8
+  - name: Drive bays 7
     label: Drive bays
     description: Hard Drive Bays
     position: 8
-  - name: Drive bays 9
+  - name: Drive bays 8
     label: Drive bays
     description: Hard Drive Bays
     position: 9
-  - name: Drive bays 10
+  - name: Drive bays 9
     label: Drive bays
     description: Hard Drive Bays
     position: 10
