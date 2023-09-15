@@ -140,15 +140,15 @@ module-bays:
     label: RAM
     description: Random Access Memory
     position: 16
-  - name: PCI-E-1
+  - name: PCI-E-0
     label: PCI-E
     position: 1
     description: PCI Express
-  - name: PCI-E-2
+  - name: PCI-E-1
     label: PCI-E
     position: 2
     description: PCI Express
-  - name: PCI-E-3
+  - name: PCI-E-2
     label: PCI-E
     position: 3
     description: PCI Express
