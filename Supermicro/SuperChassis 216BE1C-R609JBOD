@@ -14,10 +14,18 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
     description: Dedicated IPMI LAN port
-  - name: LAN 1
-    type: 10gbase-t
-  - name: LAN 2
-    type: 10gbase-t
+  - name: SAS 0
+    type: Other
+    description: SAS AOC-SAS3-9380-XXX
+  - name: SAS 1
+    type: Other
+    description: SAS AOC-SAS3-9380-XXX
+  - name: SAS 2
+    type: Other
+    description: SAS AOC-SAS3-9380-XXX
+  - name: SAS 3
+    type: Other
+    description: SAS AOC-SAS3-9380-XXX
 module-bays:
   - name: Drive bays 0
     label: Drive bays
