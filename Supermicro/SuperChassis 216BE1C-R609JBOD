@@ -14,18 +14,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
     description: Dedicated IPMI LAN port
-  - name: SAS 0
-    type: Other
-    description: SAS AOC-SAS3-9380-XXX
-  - name: SAS 1
-    type: Other
-    description: SAS AOC-SAS3-9380-XXX
-  - name: SAS 2
-    type: Other
-    description: SAS AOC-SAS3-9380-XXX
-  - name: SAS 3
-    type: Other
-    description: SAS AOC-SAS3-9380-XXX
 module-bays:
   - name: Drive bays 0
     label: Drive bays
@@ -67,3 +55,59 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 10
+  - name: Drive bays 10
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 11
+  - name: Drive bays 11
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 12
+  - name: Drive bays 12
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 13
+  - name: Drive bays 13
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 14
+  - name: Drive bays 14
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 15
+  - name: Drive bays 15
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 16
+  - name: Drive bays 16
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 17
+  - name: Drive bays 17
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 18
+  - name: Drive bays 18
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 19
+  - name: Drive bays 19
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 20
+  - name: Drive bays 20
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 21
+  - name: Drive bays 21
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 22
+  - name: Drive bays 22
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 23
+  - name: Drive bays 23
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 24
