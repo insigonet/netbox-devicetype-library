@@ -28,11 +28,11 @@ module-bays:
     label: CPU
     position: 1
     description: Сentral Processing Unit
-  - name: M.2 1
+  - name: M.2 - 0
     label: M.2
     description: M.2 Interface PCI-E form factor 2280
     position: 1
-  - name: M.2 2
+  - name: M.2 - 1
     label: M.2
     description: M.2 Interface PCI-E form factor 2280
     position: 2
