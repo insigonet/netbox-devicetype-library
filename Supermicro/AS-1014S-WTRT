@@ -1,0 +1,98 @@
+---
+manufacturer: Supermicro
+model: AS-1014S-WTRT
+slug: supermicro-as-1014s-wtrt
+u_height: 1
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: VGA
+    type: other
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+  - name: Power 2
+    type: iec-60320-c14
+interfaces:
+  - name: BMC
+    type: 1000base-t
+    mgmt_only: true
+    description: Dedicated IPMI LAN port
+  - name: LAN 1
+    type: 10gbase-t
+  - name: LAN 2
+    type: 10gbase-t
+module-bays:
+  - name: CPU
+    label: CPU
+    position: 1
+    description: Сentral Processing Unit
+  - name: M.2 Slot 0
+    label: M.2
+    description: M.2 Interface PCI-E form factor 2280
+    position: 1
+  - name: M.2 Slot 1
+    label: M.2
+    description: M.2 Interface PCI-E form factor 2280
+    position: 2
+  - name: Drive bays 0
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 1
+  - name: Drive bays 1
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 2
+  - name: Drive bays 2
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 3
+  - name: Drive bays 3
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 4
+  - name: DIMM A1
+    label: RAM
+    description: Random Access Memory
+    position: 1
+  - name: DIMM A2
+    label: RAM
+    description: Random Access Memory
+    position: 2
+  - name: DIMM B1
+    label: RAM
+    description: Random Access Memory
+    position: 3
+  - name: DIMM B2
+    label: RAM
+    description: Random Access Memory
+    position: 4
+  - name: DIMM C1
+    label: RAM
+    description: Random Access Memory
+    position: 5
+  - name: DIMM C2
+    label: RAM
+    description: Random Access Memory
+    position: 6
+  - name: DIMM D1
+    label: RAM
+    description: Random Access Memory
+    position: 7
+  - name: DIMM D2
+    label: RAM
+    description: Random Access Memory
+    position: 8
+  - name: PCI-E-0
+    label: PCI-E
+    position: 1
+    description: PCI Express
+  - name: PCI-E-1
+    label: PCI-E
+    position: 2
+    description: PCI Express
+  - name: PCI-E-2
+    label: PCI-E
+    position: 3
+    description: PCI Express
