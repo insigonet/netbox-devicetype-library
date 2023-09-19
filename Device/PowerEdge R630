@@ -1,0 +1,163 @@
+---
+manufacturer: Dell
+model: PowerEdge R630
+slug: dell-poweredge-r630
+u_height: 1
+is_full_depth: true
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: VGA
+    type: other
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: true
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+  - name: Power 2
+    type: iec-60320-c14
+module-bays:
+  - name: CPU 1
+    label: CPU
+    position: 1
+    description: Сentral Processing Unit
+  - name: CPU 2
+    label: CPU
+    position: 2
+    description: Сentral Processing Unit
+  - name: Drive bays 0
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 1
+  - name: Drive bays 1
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 2
+  - name: Drive bays 2
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 3
+  - name: Drive bays 3
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 4
+  - name: Drive bays 4
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 5
+  - name: Drive bays 5
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 6
+  - name: Drive bays 6
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 7
+  - name: Drive bays 7
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 8
+  - name: DIMM A1
+    label: RAM
+    description: Random Access Memory
+    position: 1
+  - name: DIMM B1
+    label: RAM
+    description: Random Access Memory
+    position: 2
+  - name: DIMM A2
+    label: RAM
+    description: Random Access Memory
+    position: 3
+  - name: DIMM B2
+    label: RAM
+    description: Random Access Memory
+    position: 4
+  - name: DIMM A3
+    label: RAM
+    description: Random Access Memory
+    position: 5
+  - name: DIMM B3
+    label: RAM
+    description: Random Access Memory
+    position: 6
+  - name: DIMM A4
+    label: RAM
+    description: Random Access Memory
+    position: 7
+  - name: DIMM B4
+    label: RAM
+    description: Random Access Memory
+    position: 8
+  - name: DIMM A5
+    label: RAM
+    description: Random Access Memory
+    position: 9
+  - name: DIMM B5
+    label: RAM
+    description: Random Access Memory
+    position: 10
+  - name: DIMM A6
+    label: RAM
+    description: Random Access Memory
+    position: 11
+  - name: DIMM B6
+    label: RAM
+    description: Random Access Memory
+    position: 12
+  - name: DIMM A7
+    label: RAM
+    description: Random Access Memory
+    position: 13
+  - name: DIMM B7
+    label: RAM
+    description: Random Access Memory
+    position: 14
+  - name: DIMM A8
+    label: RAM
+    description: Random Access Memory
+    position: 15
+  - name: DIMM B8
+    label: RAM
+    description: Random Access Memory
+    position: 16
+  - name: DIMM A9
+    label: RAM
+    description: Random Access Memory
+    position: 17
+  - name: DIMM B9
+    label: RAM
+    description: Random Access Memory
+    position: 18
+  - name: DIMM A10
+    label: RAM
+    description: Random Access Memory
+    position: 19
+  - name: DIMM B10
+    label: RAM
+    description: Random Access Memory
+    position: 20
+  - name: DIMM A11
+    label: RAM
+    description: Random Access Memory
+    position: 21
+  - name: DIMM B11
+    label: RAM
+    description: Random Access Memory
+    position: 22
+  - name: DIMM A12
+    label: RAM
+    description: Random Access Memory
+    position: 23
+  - name: DIMM B12
+    label: RAM
+    description: Random Access Memory
+    position: 24
+  - name: PCI-E-0
+    position: 1
+  - name: PCI-E-1
+    position: 2
+  - name: PCI-E-2
+    position: 3
