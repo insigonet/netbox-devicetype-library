@@ -1,7 +1,7 @@
 ---
-manufacturer: Supermicro
-model: AS-1114S-WN10RT
-slug: supermicro-as-1114s-wn10rt
+manufacturer: Gygabyte
+model: Gygabyte R152-Z30-00
+slug: gygabyte-r152-z30-00
 u_height: 1
 is_full_depth: true
 console-ports:
@@ -20,9 +20,9 @@ interfaces:
     mgmt_only: true
     description: Dedicated IPMI LAN port
   - name: LAN 1
-    type: 10gbase-t
+    type: 1000base-t
   - name: LAN 2
-    type: 10gbase-t
+    type: 1000base-t
 module-bays:
   - name: CPU
     label: CPU
