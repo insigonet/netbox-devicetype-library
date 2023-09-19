@@ -13,6 +13,10 @@ interfaces:
   - name: iDRAC
     type: 1000base-t
     mgmt_only: true
+  - name: LAN 1
+    type: 10gbase-t
+  - name: LAN 2
+    type: 10gbase-t
 power-ports:
   - name: Power 1
     type: iec-60320-c14
