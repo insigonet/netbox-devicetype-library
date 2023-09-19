@@ -1,7 +1,7 @@
 ---
 manufacturer: Supermicro
 model: SuperStorage 6049P-E1CR36H
-slug: supermicro-superstorage 6049p-e1cr36h
+slug: supermicro-superstorage-6049p-e1cr36h
 u_height: 4
 is_full_depth: true
 console-ports:
