@@ -28,17 +28,135 @@ module-bays:
     label: CPU
     position: 1
     description: Сentral Processing Unit
-  - name: RAM
+  - name: M.2 Slot 0
+    label: M.2
+    description: M.2 Interface PCI-E form factor 2280
+    position: 1
+  - name: M.2 Slot 1
+    label: M.2
+    description: M.2 Interface PCI-E form factor 2280
+    position: 2
+  - name: Drive bays 0
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 1
+  - name: Drive bays 1
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 2
+  - name: Drive bays 2
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 3
+  - name: Drive bays 3
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 4
+  - name: Drive bays 4
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 5
+  - name: Drive bays 5
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 6
+  - name: Drive bays 6
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 7
+  - name: Drive bays 7
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 8
+  - name: Drive bays 8
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 9
+  - name: Drive bays 9
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 10
+  - name: Drive bays 10
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 11
+  - name: Drive bays 11
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 12
+  - name: DIMM A1
     label: RAM
     description: Random Access Memory
-  - name: PCI-E
+    position: 1
+  - name: DIMM A2
+    label: RAM
+    description: Random Access Memory
+    position: 2
+  - name: DIMM B1
+    label: RAM
+    description: Random Access Memory
+    position: 3
+  - name: DIMM B2
+    label: RAM
+    description: Random Access Memory
+    position: 4
+  - name: DIMM C1
+    label: RAM
+    description: Random Access Memory
+    position: 5
+  - name: DIMM C2
+    label: RAM
+    description: Random Access Memory
+    position: 6
+  - name: DIMM D1
+    label: RAM
+    description: Random Access Memory
+    position: 7
+  - name: DIMM D2
+    label: RAM
+    description: Random Access Memory
+    position: 8
+  - name: DIMM E1
+    label: RAM
+    description: Random Access Memory
+    position: 9
+  - name: DIMM E2
+    label: RAM
+    description: Random Access Memory
+    position: 10
+  - name: DIMM F1
+    label: RAM
+    description: Random Access Memory
+    position: 11
+  - name: DIMM F2
+    label: RAM
+    description: Random Access Memory
+    position: 12
+  - name: DIMM G1
+    label: RAM
+    description: Random Access Memory
+    position: 13
+  - name: DIMM G2
+    label: RAM
+    description: Random Access Memory
+    position: 14
+  - name: DIMM H1
+    label: RAM
+    description: Random Access Memory
+    position: 15
+  - name: DIMM H2
+    label: RAM
+    description: Random Access Memory
+    position: 16
+  - name: PCI-E-0
     label: PCI-E
     position: 1
     description: PCI Express
-  - name: M.2
-    label: M.2
-    description: M.2 Interface PCI-E form factor: 2280
-  - name: Drive bays 1
-    label: Drive bays
-    description: Hard Drive bays
-    position: 1
+  - name: PCI-E-1
+    label: PCI-E
+    position: 2
+    description: PCI Express
+  - name: PCI-E-2
+    label: PCI-E
+    position: 3
+    description: PCI Express
