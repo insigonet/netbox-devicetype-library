@@ -35,7 +35,7 @@ module-bays:
     label: CPU
     position: 2
     description: Сentral Processing Unit
-    - name: Drive bays 0
+  - name: Drive bays 0
     label: Drive bays
     description: Hard Drive Bays
     position: 1
