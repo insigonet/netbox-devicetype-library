@@ -26,7 +26,7 @@ interfaces:
 module-bays:
   - name: CPU 1
     label: CPU
-    position: 2
+    position: 1
   - name: CPU 2
     label: CPU
     position: 2
