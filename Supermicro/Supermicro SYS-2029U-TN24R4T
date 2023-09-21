@@ -31,13 +31,21 @@ module-bays:
     label: CPU
     position: 2
     description: Сentral Processing Unit
-  - name: M.2 Slot 0
-    label: M.2
-    description: M.2 Interface PCI-E form factor 2280
+  - name: P1-NVMe-0
+    label: P1-NVMe-0
+    description: P1-NVMe-0
     position: 1
-  - name: M.2 Slot 1
-    label: M.2
-    description: M.2 Interface PCI-E form factor 2280
+  - name: P1-NVMe-1
+    label: P1-NVMe-1
+    description: P1-NVMe-1
+    position: 2
+  - name: P2-NVMe-0
+    label: P2-NVMe-0
+    description: P2-NVMe-0
+    position: 1
+  - name: P2-NVMe-1
+    label: P2-NVMe-1
+    description: position: 2
     position: 2
   - name: Drive bays 0
     label: Drive bays
@@ -238,4 +246,8 @@ module-bays:
   - name: PCI-E-1
     label: PCI-E
     position: 2
+    description: PCI Express
+  - name: PCI-E-2
+    label: PCI-E
+    position: 3
     description: PCI Express
