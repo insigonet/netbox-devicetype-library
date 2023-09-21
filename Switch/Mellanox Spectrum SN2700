@@ -4,7 +4,7 @@ model: Mellanox Spectrum SN2700
 slug: mellanox-spectrum-sn2700
 default_platform: null
 u_height: 1
-is_full_depth: false
+is_full_depth: true
 power-ports:
   - name: Power Port
     type: iec-60320-c14
