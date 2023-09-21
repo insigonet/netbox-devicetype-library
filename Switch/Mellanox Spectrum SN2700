@@ -9,6 +9,9 @@ power-ports:
   - name: Power Port
     type: iec-60320-c14
 interfaces:
+- name: 'Port 1/1'
+  type: 100gbase-x-qsfp28
+  enabled: true
 - name: 'Port 1/2/1'
   type: 100gbase-x-qsfp28
   enabled: true
