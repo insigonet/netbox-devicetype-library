@@ -42,11 +42,11 @@ module-bays:
   - name: P2-NVMe-0
     label: P2-NVMe-0
     description: P2-NVMe-0
-    position: 1
+    position: 3
   - name: P2-NVMe-1
     label: P2-NVMe-1
-    description: position: 2
-    position: 2
+    description: P2-NVMe-1
+    position: 4
   - name: Drive bays 0
     label: Drive bays
     description: Hard Drive Bays
