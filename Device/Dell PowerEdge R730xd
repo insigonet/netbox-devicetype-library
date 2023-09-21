@@ -36,7 +36,7 @@ module-bays:
     label: CPU
     position: 2
     description: Сentral Processing Unit
-  - name: Drive bays 0
+    - name: Drive bays 0
     label: Drive bays
     description: Hard Drive Bays
     position: 1
@@ -68,6 +68,78 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 8
+  - name: Drive bays 8
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 9
+  - name: Drive bays 9
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 10
+  - name: Drive bays 10
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 11
+  - name: Drive bays 11
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 12
+  - name: Drive bays 12
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 13
+  - name: Drive bays 13
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 14
+  - name: Drive bays 14
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 15
+  - name: Drive bays 15
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 16
+  - name: Drive bays 16
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 17
+  - name: Drive bays 17
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 18
+  - name: Drive bays 18
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 19
+  - name: Drive bays 19
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 20
+  - name: Drive bays 20
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 21
+  - name: Drive bays 21
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 22
+  - name: Drive bays 22
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 23
+  - name: Drive bays 23
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 24
+  - name: Drive bays 24
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 25
+  - name: Drive bays 25
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 26
   - name: DIMM A1
     label: RAM
     description: Random Access Memory
