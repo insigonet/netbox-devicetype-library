@@ -1,7 +1,7 @@
 ---
 manufacturer: Supermicro
-model: SuperChassis-216BE1C-R609JBOD
-slug: supermicro-superchassis-216Be1c-r609jbod
+model: PowerVault MD3060e
+slug: dell-powervault md3060e
 u_height: 2
 is_full_depth: true
 power-ports:
