@@ -1,1 +1,119 @@
-
+---
+manufacturer: Supermicro
+model: SuperChassis-216BE1C-R609JBOD
+slug: supermicro-superchassis-216Be1c-r609jbod
+u_height: 2
+is_full_depth: true
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+  - name: Power 2
+    type: iec-60320-c14
+interfaces:
+  - name: Management Controller Slot A
+    type: 1000base-t
+    mgmt_only: true
+    description: Management Controller Slot A
+    position: 1
+  - name: Management Controller Slot B
+    type: 1000base-t
+    mgmt_only: true
+    description: Management Controller Slot B
+    position: 2
+module-bays:
+  - name: Drive bays 0
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 1
+  - name: Drive bays 1
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 2
+  - name: Drive bays 2
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 3
+  - name: Drive bays 3
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 4
+  - name: Drive bays 4
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 5
+  - name: Drive bays 5
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 6
+  - name: Drive bays 6
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 7
+  - name: Drive bays 7
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 8
+  - name: Drive bays 8
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 9
+  - name: Drive bays 9
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 10
+  - name: Drive bays 10
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 11
+  - name: Drive bays 11
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 12
+  - name: Drive bays 12
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 13
+  - name: Drive bays 13
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 14
+  - name: Drive bays 14
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 15
+  - name: Drive bays 15
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 16
+  - name: Drive bays 16
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 17
+  - name: Drive bays 17
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 18
+  - name: Drive bays 18
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 19
+  - name: Drive bays 19
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 20
+  - name: Drive bays 20
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 21
+  - name: Drive bays 21
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 22
+  - name: Drive bays 22
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 23
+  - name: Drive bays 23
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 24
