@@ -16,6 +16,9 @@ power-ports:
     type: iec-60320-c14
     maximum_draw: 647
 interfaces:
+  - name: Management0
+    type: 1000base-t
+    mgmt_only: true
   - name: Ethernet 0/1
     type: 10gbase-x-sfpp
   - name: Ethernet 0/2
@@ -120,10 +123,3 @@ interfaces:
     type: 100gbase-x-qsfp28
   - name: Ethernet 0/52
     type: 100gbase-x-qsfp28
-  - name: Ethernet 0/53
-    type: 100gbase-x-qsfp28
-  - name: Ethernet 0/54
-    type: 100gbase-x-qsfp28
-  - name: Management0
-    type: 1000base-t
-    mgmt_only: true
