@@ -117,9 +117,6 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 24
-
-
-
   - name: Drive bays 24
     label: Drive bays
     description: Hard Drive Bays
@@ -240,5 +237,29 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 54
+  - name: Drive bays 54
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 55
+  - name: Drive bays 55
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 56
+  - name: Drive bays 56
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 57
+  - name: Drive bays 57
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 58
+  - name: Drive bays 58
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 59
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
 
 
