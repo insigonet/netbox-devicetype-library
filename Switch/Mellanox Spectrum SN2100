@@ -1,1 +1,11 @@
-
+---
+manufacturer: Mellanox
+model: Mellanox Spectrum SN2100
+slug: mellanox-spectrum-sn2100
+default_platform: null
+u_height: 0.5
+is_full_depth: false
+interfaces:
+- name: 'Port 1/2/1'
+  type: 100gbase-x-qsfp28
+  enabled: true
