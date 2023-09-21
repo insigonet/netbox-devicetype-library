@@ -1,0 +1,8 @@
+---
+manufacturer: Moxa
+model: Moxa NPort 5610-8
+slug: moxa-nport-5610-8
+u_height: 1
+interfaces:
+  - name: ETH
+    type: 1000base-t
