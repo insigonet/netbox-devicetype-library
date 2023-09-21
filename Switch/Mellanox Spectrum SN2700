@@ -1,9 +1,9 @@
 ---
 manufacturer: Mellanox
-model: Mellanox Spectrum SN2100
-slug: mellanox-spectrum-sn2100
+model: Mellanox Spectrum SN2700
+slug: mellanox-spectrum-sn2700
 default_platform: null
-u_height: 0.5
+u_height: 1
 is_full_depth: false
 power-ports:
   - name: Power Port
