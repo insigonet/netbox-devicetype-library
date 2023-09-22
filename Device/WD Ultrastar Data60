@@ -9,17 +9,6 @@ power-ports:
     type: iec-60320-c14
   - name: Power 2
     type: iec-60320-c14
-interfaces:
-  - name: Management Controller Slot A
-    type: 1000base-t
-    mgmt_only: true
-    description: Management Controller Slot A
-    position: 1
-  - name: Management Controller Slot B
-    type: 1000base-t
-    mgmt_only: true
-    description: Management Controller Slot B
-    position: 2
 module-bays:
   - name: Drive bays 0
     label: Drive bays
