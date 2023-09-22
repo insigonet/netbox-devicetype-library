@@ -1,7 +1,7 @@
 ---
-manufacturer: WD
-model: WD Ultrastar Data60
-slug: wd-ultrastar-data60
+manufacturer: HGST
+model: HGST 4U60 Storage Enclosure
+slug: hgst-4u60-storage-enclosure
 u_height: 4
 is_full_depth: true
 power-ports:
