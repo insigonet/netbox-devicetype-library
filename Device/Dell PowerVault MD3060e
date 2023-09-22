@@ -2,7 +2,7 @@
 manufacturer: Supermicro
 model: PowerVault MD3060e
 slug: dell-powervault md3060e
-u_height: 2
+u_height: 4
 is_full_depth: true
 power-ports:
   - name: Power 1
