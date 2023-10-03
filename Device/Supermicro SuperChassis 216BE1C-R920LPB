@@ -135,91 +135,91 @@ module-bays:
     label: RAM
     description: Random Access Memory
     position: 2
+  - name: P1-DIMM A3
+    label: RAM
+    description: Random Access Memory
+    position: 3
   - name: P1-DIMM B1
     label: RAM
     description: Random Access Memory
-    position: 3
+    position: 4
   - name: P1-DIMM B2
     label: RAM
     description: Random Access Memory
-    position: 4
+    position: 5
+  - name: P1-DIMM B3
+    label: RAM
+    description: Random Access Memory
+    position: 6
   - name: P1-DIMM C1
     label: RAM
     description: Random Access Memory
-    position: 5
+    position: 7
   - name: P1-DIMM C2
     label: RAM
     description: Random Access Memory
-    position: 6
+    position: 8
+  - name: P1-DIMM C3
+    label: RAM
+    description: Random Access Memory
+    position: 9
   - name: P1-DIMM D1
     label: RAM
     description: Random Access Memory
-    position: 7
+    position: 10
   - name: P1-DIMM D2
     label: RAM
     description: Random Access Memory
-    position: 8
-  - name: P1-DIMM E1
-    label: RAM
-    description: Random Access Memory
-    position: 9
-  - name: P1-DIMM E2
-    label: RAM
-    description: Random Access Memory
-    position: 10
-  - name: P1-DIMM F1
-    label: RAM
-    description: Random Access Memory
     position: 11
-  - name: P1-DIMM F2
+  - name: P1-DIMM D3
     label: RAM
     description: Random Access Memory
     position: 12
-  - name: P2-DIMM A1
-    label: RAM
-    description: Random Access Memory
-    position: 1
-  - name: P2-DIMM A2
-    label: RAM
-    description: Random Access Memory
-    position: 2
-  - name: P2-DIMM B1
-    label: RAM
-    description: Random Access Memory
-    position: 3
-  - name: P2-DIMM B2
-    label: RAM
-    description: Random Access Memory
-    position: 4
-  - name: P2-DIMM C1
-    label: RAM
-    description: Random Access Memory
-    position: 5
-  - name: P2-DIMM C2
-    label: RAM
-    description: Random Access Memory
-    position: 6
-  - name: P2-DIMM D1
-    label: RAM
-    description: Random Access Memory
-    position: 7
-  - name: P2-DIMM D2
-    label: RAM
-    description: Random Access Memory
-    position: 8
-  - name: P2-DIMM E1
-    label: RAM
-    description: Random Access Memory
-    position: 9
-  - name: P2-DIMM E2
-    label: RAM
-    description: Random Access Memory
-    position: 10
   - name: P2-DIMM F1
     label: RAM
     description: Random Access Memory
-    position: 11
+    position: 1
   - name: P2-DIMM F2
+    label: RAM
+    description: Random Access Memory
+    position: 2
+  - name: P2-DIMM F3
+    label: RAM
+    description: Random Access Memory
+    position: 3
+  - name: P2-DIMM E1
+    label: RAM
+    description: Random Access Memory
+    position: 4
+  - name: P2-DIMM E2
+    label: RAM
+    description: Random Access Memory
+    position: 5
+  - name: P2-DIMM E3
+    label: RAM
+    description: Random Access Memory
+    position: 6
+  - name: P2-DIMM G1
+    label: RAM
+    description: Random Access Memory
+    position: 7
+  - name: P2-DIMM G2
+    label: RAM
+    description: Random Access Memory
+    position: 8
+  - name: P2-DIMM G3
+    label: RAM
+    description: Random Access Memory
+    position: 9
+  - name: P2-DIMM H1
+    label: RAM
+    description: Random Access Memory
+    position: 10
+  - name: P2-DIMM H2
+    label: RAM
+    description: Random Access Memory
+    position: 11
+  - name: P2-DIMM H3
     label: RAM
     description: Random Access Memory
     position: 12
