@@ -64,67 +64,67 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 4
-  - name: DIMM A1
+  - name: P1-DIMM A1
     label: RAM
     description: Random Access Memory
     position: 1
-  - name: DIMM A2
+  - name: P1-DIMM A2
     label: RAM
     description: Random Access Memory
     position: 2
-  - name: DIMM B1
+  - name: P1-DIMM B1
     label: RAM
     description: Random Access Memory
     position: 3
-  - name: DIMM B2
+  - name: P1-DIMM B2
     label: RAM
     description: Random Access Memory
     position: 4
-  - name: DIMM C1
+  - name: P1-DIMM C1
     label: RAM
     description: Random Access Memory
     position: 5
-  - name: DIMM C2
+  - name: P1-DIMM C2
     label: RAM
     description: Random Access Memory
     position: 6
-  - name: DIMM D1
+  - name: P1-DIMM D1
     label: RAM
     description: Random Access Memory
     position: 7
-  - name: DIMM D2
+  - name: P1-DIMM D2
     label: RAM
     description: Random Access Memory
     position: 8
-  - name: DIMM E1
+  - name: P1-DIMM E1
     label: RAM
     description: Random Access Memory
     position: 9
-  - name: DIMM E2
+  - name: P1-DIMM E2
     label: RAM
     description: Random Access Memory
     position: 10
-  - name: DIMM F1
+  - name: P1-DIMM F1
     label: RAM
     description: Random Access Memory
     position: 11
-  - name: DIMM F2
+  - name: P1-DIMM F2
     label: RAM
     description: Random Access Memory
     position: 12
-  - name: DIMM G1
+  - name: P1-DIMM G1
     label: RAM
     description: Random Access Memory
     position: 13
-  - name: DIMM G2
+  - name: P1-DIMM G2
     label: RAM
     description: Random Access Memory
     position: 14
-  - name: DIMM H1
+  - name: P1-DIMM H1
     label: RAM
     description: Random Access Memory
     position: 15
-  - name: DIMM H2
+  - name: P1-DIMM H2
     label: RAM
     description: Random Access Memory
     position: 16
