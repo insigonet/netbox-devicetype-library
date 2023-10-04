@@ -136,7 +136,7 @@ module-bays:
     label: RAM
     description: Random Access Memory
     position: 18
-  - name: P1-DIMM B1
+  - name: P2-DIMM B1
     label: RAM
     description: Random Access Memory
     position: 19
