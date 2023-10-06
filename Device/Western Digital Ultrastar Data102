@@ -250,3 +250,615 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 60
+  - name: Drive bays 60
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 61
+  - name: Drive bays 61
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 62
+  - name: Drive bays 62
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 63
+  - name: Drive bays 63
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 64
+  - name: Drive bays 64
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 65
+  - name: Drive bays 65
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 66
+  - name: Drive bays 66
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 67
+  - name: Drive bays 67
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 68
+  - name: Drive bays 68
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 69
+  - name: Drive bays 69
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 70
+  - name: Drive bays 70
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 71
+  - name: Drive bays 71
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 72
+  - name: Drive bays 72
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 73
+  - name: Drive bays 73
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 74
+  - name: Drive bays 74
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 75
+  - name: Drive bays 75
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 76
+  - name: Drive bays 76
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 77
+  - name: Drive bays 77
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 78
+  - name: Drive bays 78
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 79
+  - name: Drive bays 79
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 80
+  - name: Drive bays 80
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 81
+  - name: Drive bays 81
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 82
+  - name: Drive bays 82
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 83
+  - name: Drive bays 83
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 84
+  - name: Drive bays 84
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 85
+  - name: Drive bays 85
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 86
+  - name: Drive bays 86
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 87
+  - name: Drive bays 87
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 88
+  - name: Drive bays 88
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 89
+  - name: Drive bays 89
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 90
+  - name: Drive bays 90
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 91
+  - name: Drive bays 91
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 92
+  - name: Drive bays 92
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 93
+  - name: Drive bays 93
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 94
+  - name: Drive bays 94
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 95
+  - name: Drive bays 95
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 96
+  - name: Drive bays 96
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 97
+  - name: Drive bays 97
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 98
+  - name: Drive bays 98
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 99
+  - name: Drive bays 99
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 100
+  - name: Drive bays 100
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 101
+  - name: Drive bays 101
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 102
+  - name: Drive bays 
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
+  - name: Drive bays 59
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 60
