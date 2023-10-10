@@ -60,6 +60,38 @@ module-bays:
     label: Drive bays
     description: Hard Drive Bays
     position: 4
+  - name: Drive bays 4
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 5
+  - name: Drive bays 5
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 6
+  - name: Drive bays 6
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 7
+  - name: Drive bays 7
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 8
+  - name: Drive bays 8
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 9
+  - name: Drive bays 9
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 10
+  - name: Drive bays 10
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 11
+  - name: Drive bays 11
+    label: Drive bays
+    description: Hard Drive Bays
+    position: 12
   - name: DIMM A1
     label: RAM
     description: Random Access Memory
