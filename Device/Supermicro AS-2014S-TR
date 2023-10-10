@@ -32,18 +32,6 @@ module-bays:
     label: M.2
     description: M.2 Interface PCI-E form factor 2280
     position: 1
-  - name: M.2 Slot 1
-    label: M.2
-    description: M.2 Interface PCI-E form factor 2280
-    position: 2
-  - name: M.2 Slot 2
-    label: M.2
-    description: M.2 Interface PCI-E form factor 2280
-    position: 3
-  - name: M.2 Slot 3
-    label: M.2
-    description: M.2 Interface PCI-E form factor 2280
-    position: 4
   - name: Drive bays 0
     label: Drive bays
     description: Hard Drive Bays
