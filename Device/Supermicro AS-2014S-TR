@@ -2,7 +2,7 @@
 manufacturer: Supermicro
 model:  AS-2014S-TR
 slug: supermicro-as-2014s-tr
-u_height: 1
+u_height: 2
 is_full_depth: true
 console-ports:
   - name: Serial
@@ -20,9 +20,9 @@ interfaces:
     mgmt_only: true
     description: Dedicated IPMI LAN port
   - name: LAN 1
-    type: 10gbase-t
+    type: 1000base-t
   - name: LAN 2
-    type: 10gbase-t
+    type: 1000base-t
 module-bays:
   - name: CPU
     label: CPU
