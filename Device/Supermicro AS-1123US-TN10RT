@@ -124,6 +124,22 @@ module-bays:
     label: RAM
     description: Random Access Memory
     position: 12
+  - name: P1-DIMM G1
+    label: RAM
+    description: Random Access Memory
+    position: 13
+  - name: P1-DIMM G2
+    label: RAM
+    description: Random Access Memory
+    position: 14
+  - name: P1-DIMM H1
+    label: RAM
+    description: Random Access Memory
+    position: 15
+  - name: P1-DIMM H2
+    label: RAM
+    description: Random Access Memory
+    position: 16
   - name: P2-DIMM A1
     label: RAM
     description: Random Access Memory
@@ -172,6 +188,22 @@ module-bays:
     label: RAM
     description: Random Access Memory
     position: 12
+  - name: P2-DIMM G1
+    label: RAM
+    description: Random Access Memory
+    position: 13
+  - name: P2-DIMM G2
+    label: RAM
+    description: Random Access Memory
+    position: 14
+  - name: P2-DIMM H1
+    label: RAM
+    description: Random Access Memory
+    position: 15
+  - name: P2-DIMM H2
+    label: RAM
+    description: Random Access Memory
+    position: 16
   - name: PCI-E-0
     label: PCI-E
     position: 1
