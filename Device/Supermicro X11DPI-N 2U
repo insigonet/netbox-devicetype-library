@@ -22,9 +22,9 @@ interfaces:
     mgmt_only: true
     description: Dedicated IPMI LAN port
   - name: LAN 1
-    type: 10gbase-t
+    type: 1000base-t
   - name: LAN 2
-    type: 10gbase-t
+    type: 1000base-t
 module-bays:
   - name: CPU 1
     label: CPU
