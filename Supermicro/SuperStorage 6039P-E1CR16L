@@ -1,9 +1,9 @@
 
 ---
 manufacturer: Supermicro
-model:  SYS-2029U-TN24R4T
-slug: supermicro-sys-2029u-tn24r4t
-u_height: 2
+model:  SuperStorage SuperStorage 6039P-E1CR16L
+slug: supermicro-superstorage-6039p
+u_height: 4
 is_full_depth: true
 console-ports:
   - name: Serial
