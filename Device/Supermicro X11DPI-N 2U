@@ -4,7 +4,7 @@
 manufacturer: Supermicro
 model:  Supermicro X11DPI-N 2U
 slug: supermicro-x11dpi-n-2u
-u_height: 4
+u_height: 2
 is_full_depth: true
 console-ports:
   - name: Serial
