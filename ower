@@ -1,0 +1,92 @@
+****# 1 ADD - Inventory Item Roles
+CPU - Сentral Processing Unit
+Hard Drive - Hard Drive
+RAM - Random Access Memory
+
+****# 1 ADD - Device Roles
+Host virtualization - Хост виртуализации
+Storage System - Система хранения данных
+Undefined - Оборудование не определено
+
+****# 1 ADD - Manufacturer
+Supermicro
+Toshiba
+
+****# 2 ADD - module-types
+
+---
+manufacturer: Intel
+model: SSDSC2KB480G7
+part_number: ---
+description: SSD INTEL 480GB 2.5 SATA 6G RI S4500
+comments: ---
+
+---
+manufacturer: Samsung
+model: MZ7LH480HAHQ-00005
+part_number: ---
+description: SSD Samsung PM883 480GB 2.5" SATA III
+comments: ---
+
+---
+manufacturer: Toshiba
+model: KXG60ZNV512G
+part_number: ---
+description: SSD 512GB NVMe/PCIe M.2 2280
+comments: ---
+
+---
+manufacturer: Seagate
+model: XA240LE10003
+part_number: ---
+description: Seagate Haden 240GB SATA 6Gb/s
+comments: ---
+
+---
+manufacturer: Generic
+model: DDR4 16Gb
+part_number: ---
+description: ram 12x64Gb (768Gb)
+comments: ---
+
+---
+manufacturer: Generic
+model: 16x32Gb (512Gb)
+part_number: ---
+description: ram 16x32Gb (512Gb)
+comments: ---
+
+---
+manufacturer: Generic
+model: 8x32Gb (256Gb)
+part_number: ---
+description: ram 8x32Gb (256Gb)
+comments: ---
+
+---
+manufacturer: Intel
+model: Xeon Gold 6154
+part_number: 
+description: Intel Xeon Gold 6154 CPU 3.00GHz
+comments: ---
+
+---
+manufacturer: AMD
+model: AMD EPYC 74F3
+part_number: 100-000000317
+description: AMD EPYC Milan 74F3 DP/UP 24C/48T 3.2G 256MB 240W
+comments: ---
+
+---
+manufacturer: AMD
+model: AMD EPYC 73F3
+part_number: 100-000000321
+description: AMD EPYC Milan 73F3 DP/UP 16C/32T 3.5G 256MB 240W
+comments: ---
+
+---
+manufacturer: AMD
+model: AMD EPYC 7313
+part_number: 100-000000329
+description: AMD EPYC Milan 7313 DP/UP 16C/32T 3.0G 128MB 155W
+comments: ---
